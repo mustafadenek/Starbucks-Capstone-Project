@@ -4,13 +4,6 @@ Udacity Data Scientist Nanodegree Capstone Project
 This repository has all the code and report for my Udacity Data Scientist Nanodegree Capstone project.
 
 ### Starbucks Capstone Challenge: Using Starbucks app user data to predict effective offers
-### Table of Contents
-Installation
-Introducing a Dataset
-Project Motivation
-File Descriptions
-Results
-Licensing, Authors, Acknowledgements
 
 ### Installation
 For running this project, the most important library is Python version of Anaconda Distribution. It installs all necessary packages for analysis and building models.
