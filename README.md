@@ -51,5 +51,5 @@ Meanwhile, for BOGO and discount models, I am quite happy with the 80% and above
 
 The main observations of the code are published here.
 
-Licensing, Authors, Acknowledgements, etc.
+## Licensing, Authors, Acknowledgements, etc.
 Data for coding project was provided by Udacity.
