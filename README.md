@@ -30,10 +30,11 @@ To answer the above 2 questions, I created 3 models for the data on the 3 offer 
 ### File Descriptions
 This repo contains 4 files.There is a notebook available here to showcase work related to the above questions and wrangling process. There are 3 data files used to address the above qustions
 
-portfolio.json - containing offer ids and meta data about each offer (duration, type, etc.)
-profile.json - demographic data for each customer
-transcript.json - records for transactions, offers received, offers viewed, and offers completed
-Results
+1. portfolio.json - containing offer ids and meta data about each offer (duration, type, etc.)
+2. profile.json - demographic data for each customer
+3. transcript.json - records for transactions, offers received, offers viewed, and offers completed
+
+### Results
 As a brief summary of my findings:
 
 i. Question 1 findings:
