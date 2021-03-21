@@ -3,30 +3,31 @@
 Udacity Data Scientist Nanodegree Capstone Project
 This repository has all the code and report for my Udacity Data Scientist Nanodegree Capstone project.
 
-Starbucks Capstone Challenge: Using Starbucks app user data to predict effective offers
-Table of Contents
+### Starbucks Capstone Challenge: Using Starbucks app user data to predict effective offers
+### Table of Contents
 Installation
 Introducing a Dataset
 Project Motivation
 File Descriptions
 Results
 Licensing, Authors, Acknowledgements
-Installation
+
+### Installation
 For running this project, the most important library is Python version of Anaconda Distribution. It installs all necessary packages for analysis and building models.
 
-Introducing a Dataset
+### Introducing a Dataset
 This data set contains simulated data that mimics customer behavior on the Starbucks rewards mobile app. Once every few days, Starbucks sends out an offer to users of the mobile app. An offer can be merely an advertisement for a drink or an actual offer such as a discount or BOGO (buy one get one free). Some users might not receive any offer during certain weeks.
 
 Not all users receive the same offer, and that is the challenge to solve with this data set.
 
-Project Motivation
+### Project Motivation
 In this project, I use the data to answer 2 business questions:
 
 What are the main features influencing the effectiveness of an offer on the Starbucks app?
 Could the data provided, namely offer characteristics and user demographics, predict whether a user would take up an offer?
 To answer the above 2 questions, I created 3 models for the data on the 3 offer types provided. The three offers are: Buy One Get One Free (BOGO), Discount (discount with purchase), and Informational (provides information about products).
 
-File Descriptions
+### File Descriptions
 This repo contains 4 files.There is a notebook available here to showcase work related to the above questions and wrangling process. There are 3 data files used to address the above qustions
 
 portfolio.json - containing offer ids and meta data about each offer (duration, type, etc.)
